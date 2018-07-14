@@ -6,6 +6,8 @@
 //  Copyright © 2018 Alex Trashertz. All rights reserved.
 //
 
+// https://www.raywenderlich.com/153084/use-git-source-control-xcode-9
+
 import UIKit
 
 class ViewController: UIViewController {
